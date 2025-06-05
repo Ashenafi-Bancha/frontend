@@ -8,7 +8,7 @@ A simple task management app built using plain HTML, CSS, and JavaScript. This a
 * Add new tasks with validation
 * Filter tasks (All, Completed, Pending)
 
----
+
 
 ## 💡 Features
 
@@ -25,7 +25,7 @@ A simple task management app built using plain HTML, CSS, and JavaScript. This a
 * **Modern Design** with clean layout and professional styling.
 * **Responsive Filters** to toggle between all, completed, and pending tasks.
 
----
+
 
 ## 🛠️ How to Use
 
@@ -35,7 +35,7 @@ A simple task management app built using plain HTML, CSS, and JavaScript. This a
 4. Click `Complete` to toggle completion status.
 5. Click `Delete` to remove a task.
 
----
+
 
 ## 📁 File Structure
 
@@ -44,7 +44,7 @@ A simple task management app built using plain HTML, CSS, and JavaScript. This a
 * `script.js` - JavaScript logic
 * `README.md` - This file
 
----
+
 
 ## 📌 Note
 
